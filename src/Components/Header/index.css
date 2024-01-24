@@ -1,0 +1,12 @@
+.headerContainer {
+  background-color: #f1f5f9;
+  width: 100%;
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.website-logo {
+  width: 180px;
+  height: 60px;
+}
